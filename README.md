@@ -1,5 +1,4 @@
 👋 Hi, I’m Mallikarjun
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-Roddannavar&layout=compact&hide=html)
 ![Profile Views](https://komarev.com/ghpvc/?username=Mallikarjun-Roddannavar&color=blue&style=flat-square)
