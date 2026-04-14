@@ -1,5 +1,4 @@
 ### 👋 Hi, I’m Mallikarjun
-**QA Automation Architect | Selenium, Playwright, RestAssured Expert**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mallikarjun-Roddannavar&color=blue&style=flat-square)
 
